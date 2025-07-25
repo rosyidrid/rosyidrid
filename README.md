@@ -6,7 +6,7 @@ I am a passionate web developer with experience in building functional and engag
 
 - 📫 Contact me at: **[rosyidridho9g@gmail.com](mailto:rosyidridho9g@gmail.com)**
 - 📄 Check out my LinkedIn: **[Your LinkedIn](https://linkedin.com/in/rosyidrid)**
-- 🌐 Visit my portfolio: **[rosyidrid.github.io](https://rosyidrid.github.io/)**
+- 🌐 Visit my portfolio: **[rosyidrid.com](https://rosyidrid.com/)**
 
 ---
 
